@@ -10,9 +10,13 @@ Also I am working on IoT projects by combining handiwork (soldering, multimeter 
 Developed an interactive hardware-software system using Python and OpenCV to track real-time hand gestures via a webcam. Configured serial communication to translate these visual movements into physical servo motor commands on an Arduino without making any mistake. Managed physical hardware debugging, including breadboard stabilization and wiring, to ensure accurate and continuous signal transmission.
 
 
+
+
 **IoT Smart Notification System**
 
 Built an ESP32 integration to push live mobile notifications directly to an OLED screen over wireless communication.
+
+
 
 
 **IoT Telegram-Controlled Hardware & Environmental Monitoring System**
