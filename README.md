@@ -4,15 +4,18 @@
 I build hardware-software integration tools, embedded telemetry systems, real-time DSP interfaces, and interactive physics/electromagnetics simulations.
 
 Also I am working on IoT projects by combining handiwork (soldering, multimeter testing, and working with components like servo motors) and codding, these are the examples:
-Computer Vision Gesture & Servo Control System
+
+**Computer Vision Gesture & Servo Control System**
 
 Developed an interactive hardware-software system using Python and OpenCV to track real-time hand gestures via a webcam. Configured serial communication to translate these visual movements into physical servo motor commands on an Arduino without making any mistake. Managed physical hardware debugging, including breadboard stabilization and wiring, to ensure accurate and continuous signal transmission.
 
-IoT Smart Notification System
+
+**IoT Smart Notification System**
 
 Built an ESP32 integration to push live mobile notifications directly to an OLED screen over wireless communication.
 
-IoT Telegram-Controlled Hardware & Environmental Monitoring System
+
+**IoT Telegram-Controlled Hardware & Environmental Monitoring System**
 
 Engineered an IoT system using a Raspberry Pi, featuring a Telegram bot integration that translates remote text commands into physical Morse code audio via a relay module. Additionally, developed a data logging and visualization script that continuously monitors the device's CPU temperature against local ambient temperatures, generating comparative graphs for system analysis.
 
