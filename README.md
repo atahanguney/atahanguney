@@ -3,6 +3,8 @@
 **Electrical & Electronics Engineering Student** at Antalya Bilim University & **Computer Programming** Student.  
 I design and build hardware-software integration tools, embedded telemetry systems, real-time DSP interfaces, and interactive physics/electromagnetics simulations.
 
+**Website:** [atahanguney.github.io](https://atahanguney.github.io/)
+
 ---
 
 ###  Featured Open-Source Software & Simulation Tools
@@ -29,5 +31,6 @@ Alongside software tools, I actively develop physical embedded systems by combin
 ---
 
 ###  Connect with Me
+* **Website:** [atahanguney.github.io](https://atahanguney.github.io/)
 * **LinkedIn:** [Atahan Güney](https://www.linkedin.com/in/atahan-guney)
 * **GitHub Profile:** [github.com/atahanguney](https://github.com/atahanguney)
